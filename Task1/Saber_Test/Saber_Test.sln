@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saber_Test", "Saber_Test\Saber_Test.csproj", "{71C5E218-B4F9-4476-A792-28701E0FB7EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit_Test", "Unit_Test\Unit_Test.csproj", "{FD546328-C7B0-4F04-B502-A155E32B0845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71C5E218-B4F9-4476-A792-28701E0FB7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C5E218-B4F9-4476-A792-28701E0FB7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C5E218-B4F9-4476-A792-28701E0FB7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C5E218-B4F9-4476-A792-28701E0FB7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD546328-C7B0-4F04-B502-A155E32B0845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD546328-C7B0-4F04-B502-A155E32B0845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD546328-C7B0-4F04-B502-A155E32B0845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD546328-C7B0-4F04-B502-A155E32B0845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

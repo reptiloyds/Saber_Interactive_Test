@@ -1,0 +1,12 @@
+C:\Users\Ilya\RiderProjects\Saber_Test\Unit_Test\bin\Debug\Unit_Test.exe
+C:\Users\Ilya\RiderProjects\Saber_Test\Unit_Test\bin\Debug\Unit_Test.pdb
+C:\Users\Ilya\RiderProjects\Saber_Test\Unit_Test\bin\Debug\nunit.framework.dll
+C:\Users\Ilya\RiderProjects\Saber_Test\Unit_Test\bin\Debug\Saber_Test.exe
+C:\Users\Ilya\RiderProjects\Saber_Test\Unit_Test\bin\Debug\Saber_Test.pdb
+C:\Users\Ilya\RiderProjects\Saber_Test\Unit_Test\bin\Debug\nunit.framework.xml
+C:\Users\Ilya\RiderProjects\Saber_Test\Unit_Test\obj\Debug\Unit_Test.csproj.AssemblyReference.cache
+C:\Users\Ilya\RiderProjects\Saber_Test\Unit_Test\obj\Debug\Unit_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilya\RiderProjects\Saber_Test\Unit_Test\obj\Debug\Unit_Test.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\RiderProjects\Saber_Test\Unit_Test\obj\Debug\Unit_Test.csproj.CopyComplete
+C:\Users\Ilya\RiderProjects\Saber_Test\Unit_Test\obj\Debug\Unit_Test.exe
+C:\Users\Ilya\RiderProjects\Saber_Test\Unit_Test\obj\Debug\Unit_Test.pdb

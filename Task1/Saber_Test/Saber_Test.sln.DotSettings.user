@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a92f1ebb_002De2f4_002D4605_002Da8ad_002De1d2cb2334d2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Deserialize_ShouldThrowException_WhenEmptyStream" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FD546328-C7B0-4F04-B502-A155E32B0845::.NETFramework,Version=v3.5::Unit_Test.TestListRand.Deserialize_ShouldThrowException_WhenEmptyStream&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FD546328-C7B0-4F04-B502-A155E32B0845::.NETFramework,Version=v3.5::Unit_Test.TestListRand.Deserialize_ShouldThrowException_WhenNoOpenBracket&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FD546328-C7B0-4F04-B502-A155E32B0845::.NETFramework,Version=v3.5::Unit_Test.TestListRand.ShouldDeserialize_WhenEmptyList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FD546328-C7B0-4F04-B502-A155E32B0845::.NETFramework,Version=v3.5::Unit_Test.TestListRand.ShouldDeserialize_WhenOneNode_WithNoRandNode&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FD546328-C7B0-4F04-B502-A155E32B0845::.NETFramework,Version=v3.5::Unit_Test.TestListRand.ShouldDeserialize_WhenSeveralNodes_WithNoRandNode&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
